@@ -1,9 +1,4 @@
-//
-//  WeatherData.swift
-//  Weather
-//
-//  Created by Eduard on 16.02.2023.
-//
+
 
 import Foundation
 
